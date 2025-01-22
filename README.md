@@ -2,7 +2,7 @@
 
 This repository hosts a Telegram ChatGPT bot designed for generating TTS (TextToSpeech) using Donald Trump's voice
 
-![Trump_Speech_Bot](https://github.com/gungho0619/tg-ai-trump-speech-bot/blob/main/cover.png)
+![Trump_Speech_Bot](https://github.com/mohnate/tg-ai-trump-speech-bot/blob/main/cover.png)
 
 ## Environment Variables
 
@@ -18,7 +18,7 @@ OPENAI_API_KEY = "sk-your_open_ai_api_key_for_4.0"
 Clone the project
 
 ```bash
-  git clone https://github.com/gungho0619/tg-ai-trump-speech-bot.git
+  git clone https://github.com/mohnate/tg-ai-trump-speech-bot.git
 ```
 
 Go to the project directory
@@ -50,8 +50,8 @@ Node, OpenAI, Telegram-API
 
 ## Authors
 
-- [Flamingo](https://www.github.com/gungho0619)
+- [Flamingo](https://www.github.com/mohnate)
 
 ## Feedback
 
-If you have any feedback, please reach out to me via [mail](tzztson@gmail.com) or [telegram](https://t.me/gungho0619)
+If you have any feedback, please reach out to me via [mail](softking0503@gmail.com) or [telegram](https://t.me/storm_valkyrie)
